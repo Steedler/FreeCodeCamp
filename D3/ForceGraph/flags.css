@@ -6,7 +6,7 @@
     display: inline-block;
     width: 16px;
     height: 11px;
-    background: url('https://github.com/kevin-norris/FreeCodeCamp/blob/master/D3/ForceGraph/flags.png?raw=true') no-repeat;
+    background: url('https://raw.githubusercontent.com/kevin-norris/FreeCodeCamp/master/D3/ForceGraph/flags.png') no-repeat;
 }
 
 
