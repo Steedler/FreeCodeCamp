@@ -99,7 +99,7 @@
 		{ "country": "Ecuador", "code": "ec", "continent": "sa" },
 		{ "country": "Czech Republic", "code": "cz", "continent": "er" },
 		{ "country": "Brunei", "code": "bn", "continent": "as" },
-		{ "country": "Australia", "code": "au", "continent": "oe" },
+		{ "country": "Australia", "code": "au", "continent": "au" },
 		{ "country": "Iran", "code": "ir", "continent": "as" },
 		{ "country": "Algeria", "code": "dz", "continent": "af" },
 		{ "country": "El Salvador", "code": "sv", "continent": "na" },
