@@ -76,7 +76,7 @@
 		{ "country": "Angola", "code": "ao", "continent": "af" },
 		{ "country": "Chad", "code": "td", "continent": "af" },
 		{ "country": "South Africa", "code": "za", "continent": "af" },
-		{ "country": "St. Vincent and the Grenadines", "code": "vc" },
+		{ "country": "St. Vincent and the Grenadines", "code": "vc", "continent": "af" },
 		{ "country": "Nicaragua", "code": "ni", "continent": "na" },
 		{ "country": "Liechtenstein", "code": "li", "continent": "er" },
 		{ "country": "Antigua & Barbuda", "code": "ag", "continent": "na" },
