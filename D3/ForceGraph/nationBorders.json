@@ -103,7 +103,7 @@
 		{ "country": "Iran", "code": "ir", "continent": "as" },
 		{ "country": "Algeria", "code": "dz", "continent": "af" },
 		{ "country": "El Salvador", "code": "sv", "continent": "na" },
-		{ "country": "St. Kitts and Nevis", "code": "kn" },
+		{ "country": "St. Kitts and Nevis", "code": "kn", "continent": "na" },
 		{ "country": "Chile", "code": "cl", "continent": "sa" },
 		{ "country": "Belgium", "code": "be", "continent": "er" },
 		{ "country": "Thailand", "code": "th", "continent": "as" },
